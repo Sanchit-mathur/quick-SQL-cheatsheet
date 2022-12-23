@@ -142,9 +142,15 @@ ALTER TABLE table_name DROP COLUMN column_name;
 
 ## 7. Creating Table Query
 CREATE: create a table
+
 CREATE TABLE table_name (
+
 column1 datatype,
+
 column2 datatype,
+
 column3 datatype,
+
 column4 datatype,
+
 );
